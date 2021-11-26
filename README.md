@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/skarthik7" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Follow @skarthik7 on GitHub">Follow @skarthik7</a>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
