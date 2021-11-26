@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 - 📫 You can reach me at: sk.akella7@gmail.com
+- 🌐 View my portfolio at: https://skarthik7.github.io/
 
 <!--
 **skarthik7/skarthik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
