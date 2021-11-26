@@ -1,5 +1,8 @@
 
 ### Hi there 👋
+
+Thanks for visiting my profile! 😊
+
 - 📍 Edmonton, Alberta, Canada
 - 📫 You can reach me at: sk.akella7@gmail.com
 - 🌐 View my portfolio at: https://skarthik7.github.io/
