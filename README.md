@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/skarthik7" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Follow @skarthik7 on GitHub">Follow @skarthik7</a>
 <!--
 **skarthik7/skarthik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
