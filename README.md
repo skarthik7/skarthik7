@@ -11,8 +11,7 @@ Thanks for visiting my profile! 😊
 
 
 
- #### You can find me on:
-  [LinkedIn](https://www.linkedin.com/in/sriram-karthik-akella-99b165116?originalSubdomain=ca) - [Email](mailto:sk.akella7@gmail.com) 
+ #### You can find me on: [LinkedIn](https://www.linkedin.com/in/sriram-karthik-akella-99b165116?originalSubdomain=ca) - [Email](mailto:sk.akella7@gmail.com) 
 
 
 <!--
