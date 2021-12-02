@@ -7,6 +7,7 @@ Thanks for visiting my profile! 😊
 - 📫 You can reach me at: sk.akella7@gmail.com
 - 🌐 View my portfolio at: https://skarthik7.github.io/
 </b>
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 <!--
 **skarthik7/skarthik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
