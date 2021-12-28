@@ -1,7 +1,7 @@
 
 ### Hey there 👋
 <b>
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile! ☺️
 
 - 📍 Edmonton, Alberta, Canada
 - 📫 You can reach me at: sk.akella7@gmail.com
