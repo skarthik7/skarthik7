@@ -6,7 +6,7 @@ Thanks for visiting my profile! ☺️
 - 📍 Edmonton, Alberta, Canada
 - 📫 You can reach me at: sk.akella7@gmail.com
 - 🌐 View my portfolio at: http://www.skarthik.me/
-- 📄 Check out my resume <a href="">here</a>
+- 📄 Check out my resume <a href="https://drive.google.com/file/d/1PvvuVLi-58azuISxvrFr3uuoypDJ5rjC/view?usp=sharing">here</a>
 </b>
 
 
