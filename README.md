@@ -6,7 +6,7 @@ Thanks for visiting my profile! ☺️
 - 📍 Edmonton, Alberta, Canada
 - 📫 You can reach me at: sk.akella7@gmail.com
 - 🌐 View my portfolio at: http://www.skakella.com/
-- 📄 Check out my resume <a href="https://drive.google.com/file/d/1QDkmXyAGr7b0Dc5S0dqQIeNuvbWF_7ze/view" target="_blank" rel="noopener noreferrer">here</a>
+- 📄 Check out my resume <a href="https://drive.google.com/file/d/1EvHe7M82O9I9GjdYU9-v0k5bnTZpnaID/view" target="_blank" rel="noopener noreferrer">here</a>
 </b>
 
 
