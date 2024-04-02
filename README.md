@@ -12,7 +12,7 @@ Thanks for visiting my profile! ☺️
 
 
 
- #### You can find me on: [LinkedIn](https://www.linkedin.com/in/sriram-karthik-akella-99b165116?originalSubdomain=ca) - [Email](mailto:sk.akella7@gmail.com) 
+ #### You can find me on: [LinkedIn](https://www.linkedin.com/in/sriram-karthik-akella-99b165116?originalSubdomain=ca) - [Email](mailto:skakellaswe@gmail.com) 
 ![SKA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skarthik7&title_color=eba830&icon_color=bae67e&bg_color=171c28&text_color=f5f0e1&hide=issues&count_private=true&show_icons=true&custom_title=Karthik%27s%20GitHub%20Stats)
 
 
