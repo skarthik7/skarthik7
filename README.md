@@ -9,7 +9,7 @@ Thanks for visiting my profile! ☺️
 - 📄 Check out my resume <a href="https://drive.google.com/file/d/1EvHe7M82O9I9GjdYU9-v0k5bnTZpnaID/view" target="_blank" rel="noopener noreferrer">here</a>
 </b>
 
-
+<img align="right" src="kar_memoji.png">
 
 
  #### You can find me on: [LinkedIn](https://www.linkedin.com/in/sriram-karthik-akella-99b165116?originalSubdomain=ca) - [Email](mailto:skakellaswe@gmail.com) 
