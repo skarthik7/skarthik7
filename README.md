@@ -1,9 +1,10 @@
 
 ### Hey there 👋
 <b>
-Thanks for visiting my profile! ☺️
 
-<img align="right" width="20%" src="kar_memoji.png">
+<img align="right" width="40%" src="kar_memoji.png">
+
+Thanks for visiting my profile! ☺️
 
 - 📍 Edmonton, Alberta, Canada
 - 📫 You can reach me at: skakellaswe@gmail.com
