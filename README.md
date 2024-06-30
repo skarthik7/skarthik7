@@ -8,7 +8,7 @@ Thanks for visiting my profile! ☺️
 
 - 📍 Edmonton, Alberta, Canada
 - 📫 You can reach me at: skakellaswe@gmail.com
-- 🌐 View my portfolio at: http://www.skarthik7.github.com/
+- 🌐 View my portfolio at: http://www.skarthik7.github.io/
 - 📄 Check out my resume <a href="https://drive.google.com/file/d/1EvHe7M82O9I9GjdYU9-v0k5bnTZpnaID/view" target="_blank" rel="noopener noreferrer">here</a>
 </b>
 
