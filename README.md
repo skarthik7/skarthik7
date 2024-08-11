@@ -1,23 +1,20 @@
+### Hi there 👋, my name is Karthik
+#### Thanks for visiting my profile! ☺️
+![Thanks for visiting my profile! ☺️](https://raw.githubusercontent.com/skarthik7/skarthik7/main/kar_memoji.png)
 
-### Hey there 👋
-<b>
-
-<img align="right" width="40%" src="kar_memoji.png">
-
-Thanks for visiting my profile! ☺️
-
-- 📍 Edmonton, Alberta, Canada
-- 📫 You can reach me at: skakellaswe@gmail.com
-- 🌐 View my portfolio at: http://www.skarthik7.github.io/
-- 📄 Check out my resume <a href="https://drive.google.com/file/d/1EvHe7M82O9I9GjdYU9-v0k5bnTZpnaID/view" target="_blank" rel="noopener noreferrer">here</a>
-</b>
+📍 Edmonton, Alberta, Canada
+📫 You can reach me at: skakellaswe@gmail.com
+🌐 View my portfolio at: http://www.skarthik7.github.io/
+📄 Check out my resume here <a href="https://drive.google.com/file/d/1EvHe7M82O9I9GjdYU9-v0k5bnTZpnaID/view" target="_blank" rel="noopener noreferrer">here</a>
 
 
- #### You can find me on: [LinkedIn](https://www.linkedin.com/in/sriram-karthik-akella-99b165116?originalSubdomain=ca) - [Email](mailto:skakellaswe@gmail.com) 
-![SKA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skarthik7&title_color=eba830&icon_color=bae67e&bg_color=171c28&text_color=f5f0e1&hide=issues&count_private=true&show_icons=true&custom_title=Karthik%27s%20GitHub%20Stats)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skarthik7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sriram-karthik-akella-99b165116?originalSubdomain=ca/)  
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skarthik7&layout=compact&langs_count=10&bg_color=171c28&text_color=f5f0e1&title_color=eba830)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarthik7)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=skarthik7)  
+
 
