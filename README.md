@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Karthik
 #### Thanks for visiting my profile! ☺️
-![Thanks for visiting my profile! ☺️](https://raw.githubusercontent.com/skarthik7/skarthik7/main/kar_memoji.png)
+![Thanks for visiting my profile! ☺️]
 
 📍 Edmonton, Alberta, Canada
 📫 You can reach me at: skakellaswe@gmail.com
