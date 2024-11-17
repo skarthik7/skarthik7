@@ -4,7 +4,7 @@
 - 📍 Edmonton, Alberta, Canada <br>
 - 📫 You can reach me at: skakellaswe@gmail.com <br>
 - 🌐 View my portfolio at: http://sriramkarthikakella.com/<br>
-- 📄 Check out my resume <a href="https://drive.google.com/file/d/1EvHe7M82O9I9GjdYU9-v0k5bnTZpnaID/view" target="_blank" rel="noopener noreferrer">here</a> <br>
+- 📄 Check out my resume <a href="https://skarthik7.github.io/assets/Resume.pdf" target="_blank" rel="noopener noreferrer">here</a> <br>
 
 
 
